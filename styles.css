@@ -4,10 +4,9 @@ main{
 	background-color:#000000;
 }
 .hello-accio{
-	color:rgb(255, 255, 255);
-	Text color: white (#ffffff);
-	Left margin: 32px;
-	Padding : 10px;
+	color:#ffffff;
+	margin-left: 32px;
+	padding : 10px;
 }
 
 /* Your CSS Code here. */
